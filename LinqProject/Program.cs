@@ -75,8 +75,6 @@ namespace LinqProject
         }
 
     }
-
-
     class Product
     {
         public int ProductId { get; set; }
