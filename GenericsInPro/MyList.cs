@@ -22,6 +22,12 @@ namespace GenericsInPro
                 items[i] = tempArray[i];
             }
             items[items.Length-1] = item; //son eleman index olarak -1 de yer alır
+            Console.WriteLine(item+" eklendi");
+        }
+
+        public void lenght()
+        {
+            Console.WriteLine(items.Length); 
         }
     }
 }
