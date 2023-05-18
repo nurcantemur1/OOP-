@@ -15,12 +15,13 @@
             myList.Add("jjjjjjj");
             myList.lenght();
 
-            Dictionary<int,string> myDictionary = new Dictionary<int, string>();
+            Dictionaries myDictionary = new Dictionaries();
+            myDictionary.Add(5,"vfv");
             myDictionary.Add(0,"vfvf");
             myDictionary.Add(1, "aa");
-            foreach (var item in myDictionary) { Console.WriteLine(item.Key+" "+item.Value); }
+           // foreach (var item in myDictionary) { Console.WriteLine(item.Key+" "+item.Value); }
 
-            SortedList<int,string> deneme = new SortedList<int,string>();
+          /*  SortedList<int,string> deneme = new SortedList<int,string>();
             deneme.Add(4,"vfşçv");
             deneme.Add(2,"i.cid");
             deneme.Add(1,"vvv");
@@ -28,7 +29,7 @@
             {
                 Console.WriteLine(item.Key+" "+item.Value);
             }
-
+          */
             Console.ReadLine();
         }
     }
