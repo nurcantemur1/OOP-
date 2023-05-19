@@ -25,6 +25,19 @@
 
             basvuruManager.bilgilendirme(credis);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
             Console.ReadLine();
         }
     }

@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsInPro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{2398A3C2-DCD8-4415-AFF6-5867BCC3A5A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{CE2E2A89-9669-4954-B603-4CC0F0EF157F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{CE2E2A89-9669-4954-B603-4CC0F0EF157F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{CE2E2A89-9669-4954-B603-4CC0F0EF157F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE2E2A89-9669-4954-B603-4CC0F0EF157F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE2E2A89-9669-4954-B603-4CC0F0EF157F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
