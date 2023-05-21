@@ -23,9 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{CE2E2A89-9669-4954-B603-4CC0F0EF157F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deneme", "deneme\deneme.csproj", "{4663BBDD-5AC9-483B-AB4F-FFFB86221F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev1", "Odev1\Odev1.csproj", "{611C0A5D-75DD-47A9-8FE5-502C35A59711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev5", "Odev1\Odev5.csproj", "{611C0A5D-75DD-47A9-8FE5-502C35A59711}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
